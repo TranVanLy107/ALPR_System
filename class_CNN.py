@@ -21,7 +21,7 @@ import argparse
 import sys
 import time
 
-import numpy as np
+import numpy as np ok
 import tensorflow as tf
 import cv2
 
